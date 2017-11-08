@@ -1,0 +1,15 @@
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\bin\Debug\tipcalculator.dll
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\bin\Debug\tipcalculator.pdb
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\bin\Debug\tipcalculator.tipcalculator.apk
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\bin\Debug\tipcalculator.tipcalculator-Signed.apk
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\obj\Debug\tipcalculator.csprojResolveAssemblyReference.cache
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\obj\Debug\tipcalculator.csproj.CoreCompileInputs.cache
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\obj\Debug\tipcalculator.dll
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\obj\Debug\tipcalculator.pdb
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\obj\Debug\android\bin\tipcalculator.tipcalculator.apk
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\obj\Debug\res\layout\main.xml
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\obj\Debug\res\values\strings.xml
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\obj\Debug\R.cs.flag
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\obj\Debug\uploadflags.txt
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\bin\Debug\tipcalculator.dll.mdb
+C:\Users\valmo\Documents\Visual Studio 2017\Projects\tipcalculator\tipcalculator\obj\Debug\android\assets\tipcalculator.dll.mdb
